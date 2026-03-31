@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre Mim
 👨‍💻 **Desenvolvedor Full Stack** apaixonado por arquitetura de software e na criação de soluções escaláveis.
-💡 Com sólida experiência na construção de dinâmicas e aplicações do Backend ao Frontend, domino tecnologias como ** PHP (Laravel, Yii), JS/TS, Node.js (NestJS) e Vue.js**. Tenho forte vivência trabalhando com metodologias ágeis (Scrum), entrega contínua, modelagem de banco de dados (PostgreSQL) e criação de APIs RESTful. Estou sempre focado em aplicar boas práticas de desenvolvimento, arquitetura em camadas, testes automatizados (Jest) e em explorar ecossistemas inovadores.
+💡 Com sólida experiência na construção de dinâmicas e aplicações do Backend ao Frontend, domino tecnologias como **PHP (Laravel, Yii), JS/TS, Node.js (NestJS) e Vue.js**. Tenho forte vivência trabalhando com metodologias ágeis (Scrum), entrega contínua, modelagem de banco de dados (PostgreSQL) e criação de APIs RESTful. Estou sempre focado em aplicar boas práticas de desenvolvimento, arquitetura em camadas, testes automatizados (Jest) e em explorar ecossistemas inovadores.
 
 ---
 
