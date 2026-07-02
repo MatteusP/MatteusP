@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Mateus+Paiva!!!;Desenvolvedor+Web+%F0%9F%92%BB;Apaixonado+por+Tecnologia+%F0%9F%9A%80" alt="Olá, eu sou o Mateus Paiva!!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Mateus+Paiva!!!;Desenvolvedor+Full+Stack+%F0%9F%92%BB" alt="Olá, eu sou o Mateus Paiva!!" />
 </div>
 
 ---
